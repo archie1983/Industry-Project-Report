@@ -41,7 +41,7 @@
                 justification=raggedright]{caption}
                 
 \RequirePackage{natbib}
-\bibliographystyle{apalike}
+\bibliographystyle{plain}
          
 %
 % headers and footers
