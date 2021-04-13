@@ -40,8 +40,10 @@
                 labelsep=period,%
                 justification=raggedright]{caption}
                 
-\RequirePackage{natbib}
-\bibliographystyle{plain}
+%\RequirePackage{natbib}
+\RequirePackage[style=numeric,backend=biber]{biblatex}
+
+%\bibliographystyle{plain}
          
 %
 % headers and footers
